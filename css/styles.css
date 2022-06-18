@@ -718,10 +718,10 @@ img {
 	transition: fill 250ms var(--transition-time);
 }
 
-/* .label__input:hover + .label__icon,
+.label__input:hover + .label__icon,
 .label__input:focus + .label__icon {
 	fill: var(--second-accent-color);
-} */
+}
 
 .label__textarea {
 	margin-top: 4px;
